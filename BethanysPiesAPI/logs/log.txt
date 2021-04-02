@@ -1,4 +1,4 @@
 ********************************************************************************
-Date/Time: 4/1/2021
+Date/Time: 4/2/2021
 Exception Info: {"status":500,"statusText":"Internal Server Error","message":"ENOENT: no such file or directory, open 'C:\\Users\\Dusty Zoland\\documents\\GitHub\\The-Tech-Academy-JS-and-JS-Frameworks-Projects\\BethanysPiesAPI\\assets\\pies2.json'","error":{"errno":-4058,"code":"INTERNAL_SERVER_ERROR","message":"ENOENT: no such file or directory, open 'C:\\Users\\Dusty Zoland\\documents\\GitHub\\The-Tech-Academy-JS-and-JS-Frameworks-Projects\\BethanysPiesAPI\\assets\\pies2.json'"},"requestInfo":{"hostname":"localhost","path":"/api/"}}
 ********************************************************************************
